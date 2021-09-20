@@ -1,10 +1,13 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f-teruhisa&theme=vue)
+▼ 📊 Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f-teruhisa&theme=github)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-teruhisa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=vue" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=f-teruhisa&count_private=true&show_icons=true&show_icons=true&theme=vue" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-teruhisa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=f-teruhisa&count_private=true&show_icons=true&show_icons=true&theme=github" />
 </p>
 
+▼ 📓 DevPost
 <p align="left"> 
   <a href="https://github.com/f-teruhisa/f-teruhisa/">
     <img src="https://komarev.com/ghpvc/?username=f-teruhisa&color=blueviolet" alt="f-teruhisa" />
@@ -21,6 +24,10 @@
   <a href="https://zenn.dev/t_fukumoto/articles">
     <img height="20" src="https://zenn.badge.nikaera.com/s/t_fukumoto/articles?style=plastic" alt="t_fukumoto articles" />
   </a>
+</p>
+
+▼ 🌐 Social
+<p align="left">
   <a href="http://twitter.com/terry_i_">
     <img height="20" src="https://img.shields.io/twitter/follow/terry_i_?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -33,7 +40,12 @@
   <a href="https://medium.com/@teruhisafukumoto">
     <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/f_teruhisa/">
+    <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+▼ 💻 Skill
 <p align="left">
     <a href="">
     <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat" />
