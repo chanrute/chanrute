@@ -47,7 +47,16 @@
 
 ▼ 💻 Skill
 <p align="left">
-    <a href="">
+  <a href="">
+    <img height="20" src="https://img.shields.io/badge/-Kotlin-000000.svg?logo=kotlin&style=flat" />
+  </a>
+  <a href="">
+    <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat&logoColor=fff" />
+  </a>
+  <a href="">
+    <img height="20" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff&style=flat" />
+  </a>
+  <a href="">
     <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat" />
   </a>
   <a href="">
@@ -63,6 +72,9 @@
     <img height="20" src="https://img.shields.io/badge/-MySQL-EEE.svg?logo=mysql&style=flat" />
   </a>
   <a href="">
+    <img height="20" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&style=flat&logoColor=fff" />
+  </a>
+  <a href="">
     <img height="20" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat" />
   </a>
   <a href="">
@@ -75,12 +87,16 @@
     <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat" />
   </a>
   <a href="">
+    <img height="20" src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat&logoColor=fff" />
+  </a>
+  <a href="">
     <img height="20" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" />
   </a>
 </p>
 
 ### Career
-- 2019/10 ~ : MedPeer,Inc. ([@mpg-teruhisa-fukumoto](https://github.com/mpg-teruhisa-fukumoto))
+- 2023/05: Smartround Inc.
+- 2019/10 ~ 2023/04: MedPeer,Inc.
 - 2018/04 ~ 2019/09: Zeals Co.,ltd
 - 2015/04 ~ 2018/03: Fujitsu Marketing Limited
 
