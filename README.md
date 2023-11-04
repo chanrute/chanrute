@@ -1,4 +1,4 @@
-▼ 📊 Stats
+# 📊 Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f-teruhisa&theme=github)
 
@@ -7,7 +7,13 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=f-teruhisa&count_private=true&show_icons=true&show_icons=true&theme=github" />
 </p>
 
-▼ 📓 DevPost
+# 👜 Career
+- 2023/05 ~ : [Smartround Inc.](https://jp.smartround.com/corporate)
+- 2019/10 ~ 2023/04: [MedPeer,Inc.](https://medpeer.co.jp/)
+- 2018/04 ~ 2019/09: [Zeals Co.,ltd](https://zeals.co.jp/en/)
+- 2015/04 ~ 2018/03: [Fujitsu Marketing Limited(now Fujitsu Japan)](https://www.fujitsu.com/jp/group/fjj/)
+
+# 📓 DevPost
 <p align="left"> 
   <a href="https://github.com/f-teruhisa/f-teruhisa/">
     <img src="https://komarev.com/ghpvc/?username=f-teruhisa&color=blueviolet" alt="f-teruhisa" />
@@ -26,7 +32,7 @@
   </a>
 </p>
 
-▼ 🌐 Social
+# 🌐 Social
 <p align="left">
   <a href="http://twitter.com/terry_i_">
     <img height="20" src="https://img.shields.io/twitter/follow/terry_i_?label=Twitter&logo=twitter&style=flat" />
@@ -45,7 +51,7 @@
   </a>
 </p>
 
-▼ 💻 Skill
+# 💻 Skill
 <p align="left">
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Kotlin-000000.svg?logo=kotlin&style=flat" />
@@ -55,6 +61,9 @@
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff&style=flat" />
+  </a>
+  <a href="">
+    <img height="20" src="https://img.shields.io/static/v1?label=&message=Flutter&color=52C0F2&logo=flutter&logoColor=white" />
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat" />
@@ -93,13 +102,3 @@
     <img height="20" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" />
   </a>
 </p>
-
-### Career
-- 2023/05: Smartround Inc.
-- 2019/10 ~ 2023/04: MedPeer,Inc.
-- 2018/04 ~ 2019/09: Zeals Co.,ltd
-- 2015/04 ~ 2018/03: Fujitsu Marketing Limited
-
-### Community
-- Gotanda.rb: https://github.com/gotandarb
-- Gotanda.js: https://github.com/gotandajs
