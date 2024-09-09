@@ -13,6 +13,8 @@
 - 2018/04 ~ 2019/09: [Zeals Co.,ltd](https://zeals.co.jp/en/)
 - 2015/04 ~ 2018/03: [Fujitsu Marketing Limited(now Fujitsu Japan)](https://www.fujitsu.com/jp/group/fjj/)
 
+※Detail: https://teruhisa.notion.site/9ee723128db44ef5b584ba9ad5829465?pvs=74
+
 # 📓 DevPost
 <p align="left"> 
   <a href="https://github.com/f-teruhisa/f-teruhisa/">
@@ -34,8 +36,8 @@
 
 # 🌐 Social
 <p align="left">
-  <a href="http://twitter.com/terry_i_">
-    <img height="20" src="https://img.shields.io/twitter/follow/terry_i_?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://x.com/terry_i_">
+    <img height="20" src="https://img.shields.io/badge/X-000000?label=X(Twitter)&logo=X&style=flat" />
   </a>
   <a href="https://www.facebook.com/teruhisa.fukumoto">
     <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -46,7 +48,7 @@
   <a href="https://medium.com/@teruhisafukumoto">
     <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/f_teruhisa/">
+  <a href="https://www.instagram.com/chanrute0324/">
     <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -57,6 +59,9 @@
     <img height="20" src="https://img.shields.io/badge/-Kotlin-000000.svg?logo=kotlin&style=flat" />
   </a>
   <a href="">
+    <img height="20" src="https://img.shields.io/badge/-Ktor-000000.svg?logo=Ktor&style=flat" />
+  </a>
+  <a href="">
     <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat&logoColor=fff" />
   </a>
   <a href="">
@@ -65,6 +70,12 @@
   <a href="">
     <img height="20" src="https://img.shields.io/static/v1?label=&message=Flutter&color=52C0F2&logo=flutter&logoColor=white" />
   </a>
+  <a href="">
+    <img height="20" src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=flat" />
+  </a>
+  <a href="">
+    <img height="20" src="https://img.shields.io/badge/-Anthropic-191919.svg?logo=anthropic&style=flat" />
+  </a>  
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat" />
   </a>
@@ -91,9 +102,6 @@
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat" />
-  </a>
-  <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat" />
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat&logoColor=fff" />
