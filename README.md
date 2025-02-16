@@ -23,7 +23,7 @@
   <a href="https://github.com/chanrute">
     <img height="20" src="https://img.shields.io/github/followers/chanrute?label=follow&logo=github&style=flat-square" />
   </a>
-  <a href="https://qiita.com/TeruhisaFukumoto"><img src="https://badgen.org/img/qiita/TeruhisaFukumoto/articles?style=flat-square" alt="Articles" /></a>
+  <a href="https://qiita.com/chanrute"><img src="https://badgen.org/img/qiita/chanrute/articles?style=flat-square" alt="Articles" /></a>
   <a href="https://zenn.dev/t_fukumoto"><img src="https://badgen.org/img/zenn/t_fukumoto/articles?style=flat-square" alt="Articles" /></a>
 </p>
 
@@ -38,10 +38,10 @@
   <a href="https://www.linkedin.com/in/teruhisafukumoto/">
     <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blu" />
   </a>
-  <a href="https://medium.com/@teruhisafukumoto">
+  <a href="https://medium.com/@chanrute">
     <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/chanrute0324/">
+  <a href="https://speakerdeck.com/chanrute">
     <img height="20" src="https://img.shields.io/badge/SpeakerDeck-008D83?style=flat-square&logo=SpeakerDeck&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/chanrute0324/">
