@@ -1,10 +1,10 @@
 # 📊 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f-teruhisa&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanrute&theme=github)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-teruhisa&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=f-teruhisa&count_private=true&show_icons=true&show_icons=true&theme=github" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanrute&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chanrute&count_private=true&show_icons=true&show_icons=true&theme=github" />
 </p>
 
 # 👜 Career
@@ -17,96 +17,92 @@
 
 # 📓 DevPost
 <p align="left"> 
-  <a href="https://github.com/f-teruhisa/f-teruhisa/">
-    <img src="https://komarev.com/ghpvc/?username=f-teruhisa&color=blueviolet" alt="f-teruhisa" />
+  <a href="https://github.com/chanrute/chanrute/">
+    <img src="https://komarev.com/ghpvc/?username=chanrute&color=blueviolet&style=flat-square" alt="chanrute" />
   </a>
-  <a href="https://github.com/f-teruhisa">
-    <img height="20" src="https://img.shields.io/github/followers/f-teruhisa?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/chanrute">
+    <img height="20" src="https://img.shields.io/github/followers/chanrute?label=follow&logo=github&style=flat-square" />
   </a>
-  <a href="http://qiita.com/TeruhisaFukumoto">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TeruhisaFukumoto/posts.svg" />
-  </a>
-  <//qiita.com/TeruhisaFukumoto">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/TeruhisaFukumoto/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/t_fukumoto/articles">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/t_fukumoto/articles?style=plastic" alt="t_fukumoto articles" />
-  </a>
+  <a href="https://qiita.com/TeruhisaFukumoto"><img src="https://badgen.org/img/qiita/TeruhisaFukumoto/articles?style=flat-square" alt="Articles" /></a>
+  <a href="https://zenn.dev/t_fukumoto"><img src="https://badgen.org/img/zenn/t_fukumoto/articles?style=flat-square" alt="Articles" /></a>
 </p>
 
 # 🌐 Social
 <p align="left">
-  <a href="http://x.com/terry_i_">
-    <img height="20" src="https://img.shields.io/badge/X-000000?label=X(Twitter)&logo=X&style=flat" />
+  <a href="http://x.com/chanrute">
+    <img height="20" src="https://img.shields.io/badge/X-000000?label=X(Twitter)&logo=X&style=flat-square" />
   </a>
   <a href="https://www.facebook.com/teruhisa.fukumoto">
-    <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/teruhisafukumoto/">
-    <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+    <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blu" />
   </a>
   <a href="https://medium.com/@teruhisafukumoto">
-    <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/chanrute0324/">
-    <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="20" src="https://img.shields.io/badge/SpeakerDeck-008D83?style=flat-square&logo=SpeakerDeck&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/chanrute0324/">
+    <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 # 💻 Skill
 <p align="left">
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Kotlin-000000.svg?logo=kotlin&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Kotlin-000000.svg?logo=kotlin&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Ktor-000000.svg?logo=Ktor&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Ktor-000000.svg?logo=Ktor&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat&logoColor=fff" />
+    <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat-square&logoColor=fff" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vuedotjs&logoColor=fff&style=flat-square" />
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/static/v1?label=&message=Flutter&color=52C0F2&logo=flutter&logoColor=white" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Anthropic-191919.svg?logo=anthropic&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Anthropic-191919.svg?logo=anthropic&style=flat-square" />
   </a>  
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=ruby-on-rails&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Javascript-333300.svg?logo=javascript&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Javascript-333300.svg?logo=javascript&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-MySQL-EEE.svg?logo=mysql&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-MySQL-EEE.svg?logo=mysql&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&style=flat&logoColor=fff" />
+    <img height="20" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&style=flat-square&logoColor=fff" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat&logoColor=fff" />
+    <img height="20" src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat-square&logoColor=fff" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" />
+    <img height="20" src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat-square" />
   </a>
 </p>
