@@ -1,11 +1,8 @@
 # 📊 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanrute&theme=github)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanrute&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chanrute&count_private=true&show_icons=true&show_icons=true&theme=github" />
-</p>
+![](https://raw.githubusercontent.com/chanrute/chanrute/main/profile-summary-card-output/swift/0-profile-details.svg)
+![](https://raw.githubusercontent.com/chanrute/chanrute/main/profile-summary-card-output/swift/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/chanrute/chanrute/main/profile-summary-card-output/swift/3-stats.svg)
 
 # 👜 Career
 - 2023/05 ~ : [Smartround Inc.](https://jp.smartround.com/corporate)
@@ -16,7 +13,7 @@
 ※Detail: https://teruhisa.notion.site/9ee723128db44ef5b584ba9ad5829465?pvs=74
 
 # 📓 DevPost
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/chanrute/chanrute/">
     <img src="https://komarev.com/ghpvc/?username=chanrute&color=blueviolet&style=flat-square" alt="chanrute" />
   </a>
@@ -70,9 +67,6 @@
     <img height="20" src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Anthropic-191919.svg?logo=anthropic&style=flat-square" />
-  </a>  
-  <a href="">
     <img height="20" src="https://img.shields.io/badge/-Ruby-CC0000.svg?logo=ruby&style=flat-square" />
   </a>
   <a href="">
@@ -82,22 +76,10 @@
     <img height="20" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" />
   </a>
   <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Javascript-333300.svg?logo=javascript&style=flat-square" />
-  </a>
-  <a href="">
-    <img height="20" src="https://img.shields.io/badge/-MySQL-EEE.svg?logo=mysql&style=flat-square" />
-  </a>
-  <a href="">
-    <img height="20" src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&style=flat-square&logoColor=fff" />
-  </a>
-  <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat-square" />
+    <img height="20" src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white" />
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat-square" />
-  </a>
-  <a href="">
-    <img height="20" src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat-square" />
   </a>
   <a href="">
     <img height="20" src="https://img.shields.io/badge/-Terraform-7B42BC.svg?logo=terraform&style=flat-square&logoColor=fff" />
